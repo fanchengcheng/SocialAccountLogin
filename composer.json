@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SocialAccountLogin\\src\\": "src"
+            "SocialAccountLogin\\src\\": "SocialAccountLogin/src"
         }
     }
 }
