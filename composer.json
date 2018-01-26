@@ -1,0 +1,21 @@
+{
+    "name": "fanchengcheng/social-account-login",
+    "description": "social account login",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bestfancc",
+            "email": "bestfancc@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "SocialAccountLogin\\src\\": "SocialAccountLogin/src"
+        }
+    }
+}
